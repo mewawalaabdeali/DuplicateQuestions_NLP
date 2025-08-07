@@ -1,0 +1,62 @@
+# 🐍 Python bytecode files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# 🧪 Environment folders
+env/
+venv/
+.pip/
+.pairs/
+pairs/
+*.egg-info/
+.eggs/
+
+# ⚙️ Build system
+build/
+dist/
+*.egg
+*.whl
+
+# 💽 Compiled files / Libraries
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# 🔐 Secrets / Configs
+.env
+*.env
+secrets.json
+credentials.json
+
+# 🧠 Model files / Checkpoints
+*.h5
+*.hdf5
+*.ckpt
+*.pt
+*.pth
+*.joblib
+*.pkl
+*.sav
+*.tflite
+*.onnx
+*.xgb
+*.bin
+*.model
+
+# 📊 Datasets
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.feather
+*.db
+*.sqlite
+
+# 📁 Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# 🔄 Logs & Dumps
+*.log*
